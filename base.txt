@@ -1,0 +1,72 @@
+O que é Astronomia?-----------------------------OK
+Origem da Astronomia----------------------------
+Historia{
+Pensamentos cosmologicos dos povos antigos------
+-Pré Historia-----------------------------------OK
+-Mesopotamios-----------------------------------OK
+	-Egipsios-----------------------------------OK
+	-Babilonicos--------------------------------OK
+	-Persas-------------------------------------OK
+	-Fenicios-----------------------------------OK
+-Indianos---------------------------------------OK
+-Chineses---------------------------------------OK
+-Astrologia-------------------------------------OK
+-Arabes-----------------------------------------Ignorado
+-Gregos
+	-Cosmologia Grega---------------------------Ok
+	-Homero-------------------------------------Ignorado
+	-Thales-------------------------------------Ok
+	-Anaximandro--------------------------------Ok
+	-Anaximenes---------------------------------Ok
+	-Heraclito----------------------------------Ok
+	-Pitagoras----------------------------------Ok
+	-Parmenides
+	-Zeno---------------------------------------Ignorado
+	-Leucipo------------------------------------Ignorado
+	-Demicrito----------------------------------Ignorado
+	-Platao
+	-Eudoxus
+	-Aristóteles
+	-Aristarco
+	-Erastotenes
+	-Ptolomeu
+Revoluções Copernicanas
+-Kepler
+-Copernico
+-Galileu
+-Giordano Bruno
+-Tycho Brahe
+-Newton
+-Cassini
+-Descartes
+}
+Física Moderna
+-Pessoas
+	-Maxwell
+	-Hawking
+	-Einstein
+	-Plank
+	-Hubble
+	-Lattes
+	-Assis
+	-Segan
+
+-Topicos
+	-Relatividade Geral e Restrita
+	-BGR
+	-Efeito Hubble
+	-BigBang
+	-Buracos Negros
+
+Física
+Origem do Universo
+-BigBang
+-Vida das Estrelas
+-Formação dos Planetas
+Sistema Solar
+-Formação da Terra
+-Formação da Lua
+-Formação do Sol e Sistema Solar
+-Caracteristica dos Plantas
+-Funcionamento do Sistema Solar
+Terra
